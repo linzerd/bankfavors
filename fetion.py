@@ -7,8 +7,8 @@ import re
 url_login = 'http://f.10086.cn/im/login/inputpasssubmit1.action'
 url_logout = 'http://f.10086.cn//im/index/logoutsubmit.action?t='
 url_msg = 'http://f.10086.cn/im/user/sendMsgToMyselfs.action'
-user = '13810101905'
-password = 'linzerd123'
+user = '13800138000'
+password = 'linzerd'
 loginstatus = '4'
 arg_t = ''
 
